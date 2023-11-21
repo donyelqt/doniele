@@ -278,13 +278,13 @@ section{
     animation: animate 1s linear infinite;
 }
 
-.img-hero{
+.img-doniele{
     position: relative;
     animation: floatImage 4s ease-in-out infinite;
     animation-delay: 3s;
 }
 
-.img-hero img{
+.img-doniele img{
     position: relative;
     width: 400px;
     height: auto;
@@ -363,7 +363,7 @@ section{
 }
 
 .about .about-img .aboutHero{
-    width: 40vw;
+    width: 20vw;
     height: auto;
 }
 
@@ -470,6 +470,8 @@ section{
     background: var(--gradient-color-bg);
     color: #000000;
 }
+
+
 
 
 /* ==================== Services section css code ============================ */
@@ -1220,6 +1222,9 @@ footer{
         padding: 13px;
     }
 }
+
+
+
 
 
 
